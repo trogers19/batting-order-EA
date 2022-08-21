@@ -24,7 +24,7 @@ Running the code in Google Colab is recommended.
 If you choose to convert the notebook to a .py file, the code must be updated to run successfully. These areas are commented in the code.
 
 ## Project Status
-This code was written for a college course. Due to significant time limits, it was developed as a proof-of-concept. There are numerous ways to expand on this, and it should be further advanced for practical use. It is not currently being updated but may be when time allows. Nonetheless, new issues or pull requests are welcome.
+This code was written for a college course. Due to significant time limits, it was developed as a proof-of-concept. There are numerous ways to expand on this, and it should be further advanced for practical use. It is not currently being updated but may be when time allows. Nonetheless, new discussions, issues, or pull requests are welcome.
 
 ## Poster and Paper
 A conference-style poster and paper in IEEE format were created along with the code as part of a final project. These detail the project's background, related work, data, methods, results, limitations, and further research. Please email troger28@vols.utk.edu if interested in these. 
