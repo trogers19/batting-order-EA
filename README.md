@@ -16,7 +16,7 @@ This was created by Taylor Rogers as a final project in Biologically Inspired Co
   * MIL2021.ROS, included in this repo, was used for development
   * Other roster files may be downloaded from [Retrosheet](https://www.retrosheet.org/) 
 
-**Notes** - If running as a Python notebook, the installation of LEAP and Pybaseball should be included in the first cell of code. On Google Colab, the code will request to connect with your Google Drive. Please be sure to update file paths as necessary and commented in the code.
+**Notes** - If running as a Python notebook, the installation of LEAP and Pybaseball should be included in the first cell of code. On Google Colab, the code will request to connect with your Google Drive. Please be sure to update file paths as necessary, such as that to the roster file.
 
 ## Usage
 Running the code in Google Colab is highly recommended. This may be accomplished by navigating to BattingOrderEA.pynb in a browser, selecting  ![image](https://user-images.githubusercontent.com/77810604/185807509-2adf3517-8fa9-4347-ae0d-8589dc1fd0f3.png), and running the cells.
